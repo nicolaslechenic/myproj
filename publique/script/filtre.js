@@ -83,3 +83,8 @@ function clearFilter() {
     dessert7.style.display = "initial";
     dessert8.style.display = "initial";
 }
+
+function clearFilter() {
+    console.log('oups...')
+}
+
